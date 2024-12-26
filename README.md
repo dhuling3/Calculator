@@ -1,2 +1,2 @@
 # Calculator
-My personal calculator GUI coded with python
+Basic personal calculator GUI coded with python
